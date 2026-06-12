@@ -1,6 +1,6 @@
 # User JS/CSS — UIAuto2
 
-Скрипты для расширения [User JavaScript and CSS](https://chrome.google.com/webstore/detail/user-javascript-and-css/)
+Скрипты для расширения [User JavaScript and CSS](https://chromewebstore.google.com/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld)
 применяемые на сайте [uiauto2.devsleep.com](https://uiauto2.devsleep.com)
 
 ## Что делают скрипты
@@ -18,7 +18,7 @@
 
 ## Установка
 
-1. Установите расширение [User JavaScript and CSS](https://chrome.google.com/webstore/detail/user-javascript-and-css/)
+1. Установите расширение [User JavaScript and CSS](https://chromewebstore.google.com/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld)
 2. Откройте расширение → Import
 3. Загрузите файл `user-js-css-v11-260612.json`
 
